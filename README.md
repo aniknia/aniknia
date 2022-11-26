@@ -2,7 +2,7 @@
 
 ## :octocat: Welcome to my Page
 
-I'm mechanical engineer. Softwares cool so I do that sometimes too. There aint much here but you're welcome to look around and steal something if you like it.
+I'm a mechanical engineer. Softwares cool so I do that sometimes too. There aint much here but you're welcome to look around and steal something if you like it.
 
 ---
 
