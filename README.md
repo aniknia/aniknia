@@ -10,7 +10,7 @@ I'm a mechanical engineer. Softwares cool so I do that sometimes too. There aint
 
 ~~Well actually don't. Ill add an email here if I can get a cool domain for it.~~
 
-I got a cool domain for it, email me at: hello@niknia.dev
+I got a cool domain for it, email me at: contact@niknia.dev
 
 <!--
 **aniknia/aniknia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
