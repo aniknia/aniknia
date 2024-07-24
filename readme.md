@@ -2,7 +2,7 @@
 
 ## :octocat: Welcome to my Page
 
-I'm a mechanical engineer. Softwares cool so I do that sometimes too. There aint much here but you're welcome to look around and steal something if you like it.
+I'm a mechanical engineer. Software's cool so I do that sometimes too. There aint much here but you're welcome to look around and steal something if you like it.
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=aniknia&theme=black-ice&hide_border=true)](https://git.io/streak-stats)-->
 
